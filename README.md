@@ -4,7 +4,7 @@
 #产品简介
 
 #安装下载
-
+- 下载地址 https://github.com/Cat0601/fast-cache/releases
 
 #快速使用
 我是一只萌小喵
